@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## These funtcions use the cache memory to save processing time and 
+## These functions use the cache memory to save processing time and 
 ## leverage the capabilities of R in the definition of objects with its own 
 ## variables and methods
 
